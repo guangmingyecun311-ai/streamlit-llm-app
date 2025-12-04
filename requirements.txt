@@ -42,3 +42,6 @@ urllib3==2.5.0
 watchdog==6.0.0
 python-dotenv
 openai
+langchain
+langchain-openai
+langchain-core
