@@ -1,0 +1,15 @@
+# Exclude environment variables file
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit specific
+.streamlit/
+
+# Virtual environment folders
+venv/
+.venv/
+ENV/
+env/
